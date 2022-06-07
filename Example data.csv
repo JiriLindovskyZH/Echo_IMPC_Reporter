@@ -1,0 +1,2546 @@
+"FUJIFILM VisualSonics Measurement Export"
+"Institution";"Czech centre for phenogenomics"
+"Report Date";"19.04.2022"
+
+"Version Information"
+"Company Name";"Model";"SW Version";"SW Build";"Report Version"
+"FUJIFILM VisualSonics, Inc.";"Vevo LAB";"5.6.1";"2257";"8"
+
+"Study";"1"
+"Study Name";"IMPC c233 Brinp3+Gm20219"
+"Owner User Name";"Sara Dias"
+"Granting Institution";"Czech Centre for Phenogenomics"
+"Study Date";"22.03.2022"
+"Study Time";"14:48:58"
+"Study Notes";""
+
+
+"Series Name";"C3A2 Repeated"
+"Acquired By";"Sara Dias"
+"Series Date";"25.03.2022"
+"Series Time";"15:14:54"
+"Animal ID";"82Z-09603"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"C57Bl/6NCrl"
+"Source";""
+"Weight";"18,59"
+"Type";""
+"Date of Birth";"25.12.2021"
+"Temperature";"36,8"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,113532";
+"MAutoLV 33";"M-Mode";"Heart Rate";"BPM";"423,818606";
+"MAutoLV 33";"M-Mode";"Diameter;s";"mm";"2,121871";
+"MAutoLV 33";"M-Mode";"Diameter;d";"mm";"3,550878";
+"MAutoLV 33";"M-Mode";"Volume;s";"uL";"14,798499";
+"MAutoLV 33";"M-Mode";"Volume;d";"uL";"52,673243";
+"MAutoLV 33";"M-Mode";"Stroke Volume";"uL";"37,874744";
+"MAutoLV 33";"M-Mode";"Ejection Fraction";"%";"71,905093";
+"MAutoLV 33";"M-Mode";"Fractional Shortening";"%";"40,243762";
+"MAutoLV 33";"M-Mode";"Cardiac Output";"mL/min";"16,052021";
+"MAutoLV 33";"M-Mode";"LV Mass";"mg";"97,613264";
+"MAutoLV 33";"M-Mode";"LV Mass Cor";"mg";"78,090611";
+"MAutoLV 33";"M-Mode";"LVAW;s";"mm";"1,578613";
+"MAutoLV 33";"M-Mode";"LVAW;d";"mm";"0,984503";
+"MAutoLV 33";"M-Mode";"LVPW;s";"mm";"0,960904";
+"MAutoLV 33";"M-Mode";"LVPW;d";"mm";"0,625672";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,956250";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,611458";
+"LVID;d";"M-Mode";"Depth";"mm";"3,470833";
+"LVID;s";"M-Mode";"Depth";"mm";"1,823958";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,690625";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,186458";
+
+Calculation;;Units;
+"EF";;"%";79,829184;
+"FS";;"%";47,448984;
+"LV Mass AW";;"mg";97,113492;
+"LV Mass AW (Corrected)";;"mg";77,690794;
+"LV Vol;d";;"uL";49,853938;
+"LV Vol;s";;"uL";10,055946;
+
+
+
+"Series Name";"C2A3"
+"Acquired By";"Sara Dias"
+"Series Date";"25.03.2022"
+"Series Time";"14:54:43"
+"Animal ID";"E64-G5600"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"19,43"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"37,3"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,271386";
+"MAutoLV 34";"M-Mode";"Heart Rate";"BPM";"487,012987";
+"MAutoLV 34";"M-Mode";"Diameter;s";"mm";"2,338010";
+"MAutoLV 34";"M-Mode";"Diameter;d";"mm";"3,479326";
+"MAutoLV 34";"M-Mode";"Volume;s";"uL";"18,886378";
+"MAutoLV 34";"M-Mode";"Volume;d";"uL";"50,148711";
+"MAutoLV 34";"M-Mode";"Stroke Volume";"uL";"31,262334";
+"MAutoLV 34";"M-Mode";"Ejection Fraction";"%";"62,339256";
+"MAutoLV 34";"M-Mode";"Fractional Shortening";"%";"32,802786";
+"MAutoLV 34";"M-Mode";"Cardiac Output";"mL/min";"15,225163";
+"MAutoLV 34";"M-Mode";"LV Mass";"mg";"134,947212";
+"MAutoLV 34";"M-Mode";"LV Mass Cor";"mg";"107,957770";
+"MAutoLV 34";"M-Mode";"LVAW;s";"mm";"1,487326";
+"MAutoLV 34";"M-Mode";"LVAW;d";"mm";"1,042055";
+"MAutoLV 34";"M-Mode";"LVPW;s";"mm";"1,193977";
+"MAutoLV 34";"M-Mode";"LVPW;d";"mm";"1,021260";
+
+
+"Series Name";"C15A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"17:39:41"
+"Animal ID";"E64-G5492"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"24,1"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"36,2"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,263893";
+"MAutoLV 32";"M-Mode";"Heart Rate";"BPM";"484,261501";
+"MAutoLV 32";"M-Mode";"Diameter;s";"mm";"2,947109";
+"MAutoLV 32";"M-Mode";"Diameter;d";"mm";"4,151010";
+"MAutoLV 32";"M-Mode";"Volume;s";"uL";"33,509734";
+"MAutoLV 32";"M-Mode";"Volume;d";"uL";"76,427847";
+"MAutoLV 32";"M-Mode";"Stroke Volume";"uL";"42,918113";
+"MAutoLV 32";"M-Mode";"Ejection Fraction";"%";"56,155072";
+"MAutoLV 32";"M-Mode";"Fractional Shortening";"%";"29,002606";
+"MAutoLV 32";"M-Mode";"Cardiac Output";"mL/min";"20,783590";
+"MAutoLV 32";"M-Mode";"LV Mass";"mg";"99,252131";
+"MAutoLV 32";"M-Mode";"LV Mass Cor";"mg";"79,401705";
+"MAutoLV 32";"M-Mode";"LVAW;s";"mm";"1,239182";
+"MAutoLV 32";"M-Mode";"LVAW;d";"mm";"0,715469";
+"MAutoLV 32";"M-Mode";"LVPW;s";"mm";"0,884956";
+"MAutoLV 32";"M-Mode";"LVPW;d";"mm";"0,626979";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,690625";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,198438";
+"LVID;d";"M-Mode";"Depth";"mm";"4,123437";
+"LVID;s";"M-Mode";"Depth";"mm";"2,864063";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,609375";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,914062";
+
+Calculation;;Units;
+"EF";;"%";58,473531;
+"FS";;"%";30,541851;
+"LV Mass AW";;"mg";94,152398;
+"LV Mass AW (Corrected)";;"mg";75,321918;
+"LV Vol;d";;"uL";75,231489;
+"LV Vol;s";;"uL";31,240981;
+
+
+
+"Series Name";"C14A3"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"17:33:26"
+"Animal ID";"E64-G5515"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"27,72"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"37,2"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,375591";
+"MAutoLV 31";"M-Mode";"Heart Rate";"BPM";"520,833333";
+"MAutoLV 31";"M-Mode";"Diameter;s";"mm";"3,612592";
+"MAutoLV 31";"M-Mode";"Diameter;d";"mm";"4,510177";
+"MAutoLV 31";"M-Mode";"Volume;s";"uL";"54,891056";
+"MAutoLV 31";"M-Mode";"Volume;d";"uL";"92,937735";
+"MAutoLV 31";"M-Mode";"Stroke Volume";"uL";"38,046679";
+"MAutoLV 31";"M-Mode";"Ejection Fraction";"%";"40,937816";
+"MAutoLV 31";"M-Mode";"Fractional Shortening";"%";"19,901325";
+"MAutoLV 31";"M-Mode";"Cardiac Output";"mL/min";"19,815979";
+"MAutoLV 31";"M-Mode";"LV Mass";"mg";"153,619885";
+"MAutoLV 31";"M-Mode";"LV Mass Cor";"mg";"122,895908";
+"MAutoLV 31";"M-Mode";"LVAW;s";"mm";"1,150365";
+"MAutoLV 31";"M-Mode";"LVAW;d";"mm";"0,925905";
+"MAutoLV 31";"M-Mode";"LVPW;s";"mm";"1,018670";
+"MAutoLV 31";"M-Mode";"LVPW;d";"mm";"0,757881";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,832812";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,198438";
+"LVID;d";"M-Mode";"Depth";"mm";"4,590625";
+"LVID;s";"M-Mode";"Depth";"mm";"3,493750";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,731250";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,995312";
+
+Calculation;;Units;
+"EF";;"%";47,714132;
+"FS";;"%";23,893805;
+"LV Mass AW";;"mg";143,627637;
+"LV Mass AW (Corrected)";;"mg";114,902110;
+"LV Vol;d";;"uL";96,871826;
+"LV Vol;s";;"uL";50,650275;
+
+
+
+"Series Name";"C14A2"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"17:26:18"
+"Animal ID";"E64-G5513"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"26,32"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"36,7"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,381711";
+"MAutoLV 30";"M-Mode";"Heart Rate";"BPM";"493,624023";
+"MAutoLV 30";"M-Mode";"Diameter;s";"mm";"3,006725";
+"MAutoLV 30";"M-Mode";"Diameter;d";"mm";"4,215061";
+"MAutoLV 30";"M-Mode";"Volume;s";"uL";"35,200321";
+"MAutoLV 30";"M-Mode";"Volume;d";"uL";"79,258466";
+"MAutoLV 30";"M-Mode";"Stroke Volume";"uL";"44,058145";
+"MAutoLV 30";"M-Mode";"Ejection Fraction";"%";"55,587935";
+"MAutoLV 30";"M-Mode";"Fractional Shortening";"%";"28,667096";
+"MAutoLV 30";"M-Mode";"Cardiac Output";"mL/min";"21,748159";
+"MAutoLV 30";"M-Mode";"LV Mass";"mg";"122,833389";
+"MAutoLV 30";"M-Mode";"LV Mass Cor";"mg";"98,266711";
+"MAutoLV 30";"M-Mode";"LVAW;s";"mm";"1,327236";
+"MAutoLV 30";"M-Mode";"LVAW;d";"mm";"0,880297";
+"MAutoLV 30";"M-Mode";"LVPW;s";"mm";"0,980824";
+"MAutoLV 30";"M-Mode";"LVPW;d";"mm";"0,669017";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,812500";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,442187";
+"LVID;d";"M-Mode";"Depth";"mm";"4,021875";
+"LVID;s";"M-Mode";"Depth";"mm";"2,660938";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,751562";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,035937";
+
+Calculation;;Units;
+"EF";;"%";63,250672;
+"FS";;"%";33,838371;
+"LV Mass AW";;"mg";115,030268;
+"LV Mass AW (Corrected)";;"mg";92,024214;
+"LV Vol;d";;"uL";70,912353;
+"LV Vol;s";;"uL";26,059813;
+
+
+
+"Series Name";"C14A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"17:17:54"
+"Animal ID";"E64-G5511"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"27,6"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"38,5"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,255886";
+"MAutoLV 29";"M-Mode";"Heart Rate";"BPM";"533,546752";
+"MAutoLV 29";"M-Mode";"Diameter;s";"mm";"3,343919";
+"MAutoLV 29";"M-Mode";"Diameter;d";"mm";"4,230574";
+"MAutoLV 29";"M-Mode";"Volume;s";"uL";"45,572125";
+"MAutoLV 29";"M-Mode";"Volume;d";"uL";"79,994225";
+"MAutoLV 29";"M-Mode";"Stroke Volume";"uL";"34,422100";
+"MAutoLV 29";"M-Mode";"Ejection Fraction";"%";"43,030731";
+"MAutoLV 29";"M-Mode";"Fractional Shortening";"%";"20,958253";
+"MAutoLV 29";"M-Mode";"Cardiac Output";"mL/min";"18,365800";
+"MAutoLV 29";"M-Mode";"LV Mass";"mg";"136,999619";
+"MAutoLV 29";"M-Mode";"LV Mass Cor";"mg";"109,599695";
+"MAutoLV 29";"M-Mode";"LVAW;s";"mm";"1,291532";
+"MAutoLV 29";"M-Mode";"LVAW;d";"mm";"0,970442";
+"MAutoLV 29";"M-Mode";"LVPW;s";"mm";"0,971439";
+"MAutoLV 29";"M-Mode";"LVPW;d";"mm";"0,703223";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"1,009375";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,328125";
+"LVID;d";"M-Mode";"Depth";"mm";"4,090625";
+"LVID;s";"M-Mode";"Depth";"mm";"3,222917";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,814583";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,991667";
+
+Calculation;;Units;
+"EF";;"%";43,544897;
+"FS";;"%";21,212113;
+"LV Mass AW";;"mg";145,794559;
+"LV Mass AW (Corrected)";;"mg";116,635647;
+"LV Vol;d";;"uL";73,821102;
+"LV Vol;s";;"uL";41,675779;
+
+
+
+"Series Name";"C13A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"17:09:54"
+"Animal ID";"E64-G5503"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"24,69"
+"Type";""
+"Date of Birth";"28.12.2021"
+"Temperature";"37,6"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,250903";
+"MAutoLV 28";"M-Mode";"Heart Rate";"BPM";"463,624773";
+"MAutoLV 28";"M-Mode";"Diameter;s";"mm";"3,493663";
+"MAutoLV 28";"M-Mode";"Diameter;d";"mm";"4,605482";
+"MAutoLV 28";"M-Mode";"Volume;s";"uL";"50,648836";
+"MAutoLV 28";"M-Mode";"Volume;d";"uL";"97,608125";
+"MAutoLV 28";"M-Mode";"Stroke Volume";"uL";"46,959290";
+"MAutoLV 28";"M-Mode";"Ejection Fraction";"%";"48,110021";
+"MAutoLV 28";"M-Mode";"Fractional Shortening";"%";"24,141200";
+"MAutoLV 28";"M-Mode";"Cardiac Output";"mL/min";"21,771490";
+"MAutoLV 28";"M-Mode";"LV Mass";"mg";"117,159341";
+"MAutoLV 28";"M-Mode";"LV Mass Cor";"mg";"93,727473";
+"MAutoLV 28";"M-Mode";"LVAW;s";"mm";"1,180732";
+"MAutoLV 28";"M-Mode";"LVAW;d";"mm";"0,759102";
+"MAutoLV 28";"M-Mode";"LVPW;s";"mm";"0,824144";
+"MAutoLV 28";"M-Mode";"LVPW;d";"mm";"0,569385";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,731250";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,218750";
+"LVID;d";"M-Mode";"Depth";"mm";"4,773438";
+"LVID;s";"M-Mode";"Depth";"mm";"3,392187";
+"LVPW;d";"M-Mode";"Depth";"mm";"1,035937";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,259375";
+
+Calculation;;Units;
+"EF";;"%";55,554247;
+"FS";;"%";28,936188;
+"LV Mass AW";;"mg";180,105428;
+"LV Mass AW (Corrected)";;"mg";144,084342;
+"LV Vol;d";;"uL";106,136448;
+"LV Vol;s";;"uL";47,173144;
+
+
+
+"Series Name";"C12A2"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"16:58:27"
+"Animal ID";"E64-G5496"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"27,00"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"37,3"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,209060";
+"MAutoLV 27";"M-Mode";"Heart Rate";"BPM";"507,901484";
+"MAutoLV 27";"M-Mode";"Diameter;s";"mm";"2,374411";
+"MAutoLV 27";"M-Mode";"Diameter;d";"mm";"3,787634";
+"MAutoLV 27";"M-Mode";"Volume;s";"uL";"19,635386";
+"MAutoLV 27";"M-Mode";"Volume;d";"uL";"61,474530";
+"MAutoLV 27";"M-Mode";"Stroke Volume";"uL";"41,839144";
+"MAutoLV 27";"M-Mode";"Ejection Fraction";"%";"68,059314";
+"MAutoLV 27";"M-Mode";"Fractional Shortening";"%";"37,311508";
+"MAutoLV 27";"M-Mode";"Cardiac Output";"mL/min";"21,250163";
+"MAutoLV 27";"M-Mode";"LV Mass";"mg";"120,246152";
+"MAutoLV 27";"M-Mode";"LV Mass Cor";"mg";"96,196922";
+"MAutoLV 27";"M-Mode";"LVAW;s";"mm";"1,361821";
+"MAutoLV 27";"M-Mode";"LVAW;d";"mm";"0,808949";
+"MAutoLV 27";"M-Mode";"LVPW;s";"mm";"1,442020";
+"MAutoLV 27";"M-Mode";"LVPW;d";"mm";"0,927083";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,726042";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,416667";
+"LVID;d";"M-Mode";"Depth";"mm";"3,878125";
+"LVID;s";"M-Mode";"Depth";"mm";"2,355208";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,814583";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,416667";
+
+Calculation;;Units;
+"EF";;"%";70,427855;
+"FS";;"%";39,269415;
+"LV Mass AW";;"mg";106,125047;
+"LV Mass AW (Corrected)";;"mg";84,900038;
+"LV Vol;d";;"uL";65,032955;
+"LV Vol;s";;"uL";19,231640;
+
+
+
+"Series Name";"C12A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"16:51:45"
+"Animal ID";"E64-G5493"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"26,46"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"37,1"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,132078";
+"MAutoLV 26";"M-Mode";"Heart Rate";"BPM";"484,496124";
+"MAutoLV 26";"M-Mode";"Diameter;s";"mm";"3,078128";
+"MAutoLV 26";"M-Mode";"Diameter;d";"mm";"4,411755";
+"MAutoLV 26";"M-Mode";"Volume;s";"uL";"37,267993";
+"MAutoLV 26";"M-Mode";"Volume;d";"uL";"88,251442";
+"MAutoLV 26";"M-Mode";"Stroke Volume";"uL";"50,983450";
+"MAutoLV 26";"M-Mode";"Ejection Fraction";"%";"57,770670";
+"MAutoLV 26";"M-Mode";"Fractional Shortening";"%";"30,228953";
+"MAutoLV 26";"M-Mode";"Cardiac Output";"mL/min";"24,701284";
+"MAutoLV 26";"M-Mode";"LV Mass";"mg";"133,704493";
+"MAutoLV 26";"M-Mode";"LV Mass Cor";"mg";"106,963594";
+"MAutoLV 26";"M-Mode";"LVAW;s";"mm";"1,290215";
+"MAutoLV 26";"M-Mode";"LVAW;d";"mm";"0,826531";
+"MAutoLV 26";"M-Mode";"LVPW;s";"mm";"1,048705";
+"MAutoLV 26";"M-Mode";"LVPW;d";"mm";"0,732342";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"1,117188";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,340625";
+"LVID;d";"M-Mode";"Depth";"mm";"3,920313";
+"LVID;s";"M-Mode";"Depth";"mm";"3,290625";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,771875";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,954687";
+
+Calculation;;Units;
+"EF";;"%";34,317213;
+"FS";;"%";16,062187;
+"LV Mass AW";;"mg";143,006917;
+"LV Mass AW (Corrected)";;"mg";114,405534;
+"LV Vol;d";;"uL";66,730086;
+"LV Vol;s";;"uL";43,830180;
+
+
+
+"Series Name";"C11A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"16:43:50"
+"Animal ID";"E64-G5488"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"25,06"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"37,0"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,510457";
+"MAutoLV 25";"M-Mode";"Heart Rate";"BPM";"480,422772";
+"MAutoLV 25";"M-Mode";"Diameter;s";"mm";"3,425041";
+"MAutoLV 25";"M-Mode";"Diameter;d";"mm";"4,772651";
+"MAutoLV 25";"M-Mode";"Volume;s";"uL";"48,284673";
+"MAutoLV 25";"M-Mode";"Volume;d";"uL";"106,100676";
+"MAutoLV 25";"M-Mode";"Stroke Volume";"uL";"57,816003";
+"MAutoLV 25";"M-Mode";"Ejection Fraction";"%";"54,491644";
+"MAutoLV 25";"M-Mode";"Fractional Shortening";"%";"28,236097";
+"MAutoLV 25";"M-Mode";"Cardiac Output";"mL/min";"27,776124";
+"MAutoLV 25";"M-Mode";"LV Mass";"mg";"138,269492";
+"MAutoLV 25";"M-Mode";"LV Mass Cor";"mg";"110,615594";
+"MAutoLV 25";"M-Mode";"LVAW;s";"mm";"1,245565";
+"MAutoLV 25";"M-Mode";"LVAW;d";"mm";"0,791384";
+"MAutoLV 25";"M-Mode";"LVPW;s";"mm";"0,951204";
+"MAutoLV 25";"M-Mode";"LVPW;d";"mm";"0,650623";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,670312";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,340625";
+"LVID;d";"M-Mode";"Depth";"mm";"4,773438";
+"LVID;s";"M-Mode";"Depth";"mm";"3,371875";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,629688";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,975000";
+
+Calculation;;Units;
+"EF";;"%";56,194265;
+"FS";;"%";29,361710;
+"LV Mass AW";;"mg";121,371519;
+"LV Mass AW (Corrected)";;"mg";97,097215;
+"LV Vol;d";;"uL";106,136448;
+"LV Vol;s";;"uL";46,493851;
+
+
+
+"Series Name";"C10A3"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"16:35:48"
+"Animal ID";"82Z-09601"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"C57Bl/6NCrl"
+"Source";""
+"Weight";"27,27"
+"Type";""
+"Date of Birth";"25.12.2021"
+"Temperature";"37,8"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,373760";
+"MAutoLV 24";"M-Mode";"Heart Rate";"BPM";"502,008032";
+"MAutoLV 24";"M-Mode";"Diameter;s";"mm";"3,432806";
+"MAutoLV 24";"M-Mode";"Diameter;d";"mm";"4,499854";
+"MAutoLV 24";"M-Mode";"Volume;s";"uL";"48,550970";
+"MAutoLV 24";"M-Mode";"Volume;d";"uL";"92,439461";
+"MAutoLV 24";"M-Mode";"Stroke Volume";"uL";"43,888492";
+"MAutoLV 24";"M-Mode";"Ejection Fraction";"%";"47,478091";
+"MAutoLV 24";"M-Mode";"Fractional Shortening";"%";"23,712937";
+"MAutoLV 24";"M-Mode";"Cardiac Output";"mL/min";"22,032375";
+"MAutoLV 24";"M-Mode";"LV Mass";"mg";"117,709614";
+"MAutoLV 24";"M-Mode";"LV Mass Cor";"mg";"94,167691";
+"MAutoLV 24";"M-Mode";"LVAW;s";"mm";"1,076158";
+"MAutoLV 24";"M-Mode";"LVAW;d";"mm";"0,759787";
+"MAutoLV 24";"M-Mode";"LVPW;s";"mm";"0,941609";
+"MAutoLV 24";"M-Mode";"LVPW;d";"mm";"0,616535";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,726042";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,080208";
+"LVID;d";"M-Mode";"Depth";"mm";"4,462500";
+"LVID;s";"M-Mode";"Depth";"mm";"3,400000";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,584375";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,920833";
+
+Calculation;;Units;
+"EF";;"%";47,669314;
+"FS";;"%";23,809524;
+"LV Mass AW";;"mg";109,012583;
+"LV Mass AW (Corrected)";;"mg";87,210066;
+"LV Vol;d";;"uL";90,646360;
+"LV Vol;s";;"uL";47,435862;
+
+
+
+"Series Name";"C10A2"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"16:28:24"
+"Animal ID";"82Z-09600"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"C57Bl/6NCrl"
+"Source";""
+"Weight";"28,44"
+"Type";""
+"Date of Birth";"25.12.2021"
+"Temperature";"37,5"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,311964";
+"MAutoLV 23";"M-Mode";"Heart Rate";"BPM";"451,603191";
+"MAutoLV 23";"M-Mode";"Diameter;s";"mm";"3,126053";
+"MAutoLV 23";"M-Mode";"Diameter;d";"mm";"4,187826";
+"MAutoLV 23";"M-Mode";"Volume;s";"uL";"38,700734";
+"MAutoLV 23";"M-Mode";"Volume;d";"uL";"78,045496";
+"MAutoLV 23";"M-Mode";"Stroke Volume";"uL";"39,344762";
+"MAutoLV 23";"M-Mode";"Ejection Fraction";"%";"50,412598";
+"MAutoLV 23";"M-Mode";"Fractional Shortening";"%";"25,353817";
+"MAutoLV 23";"M-Mode";"Cardiac Output";"mL/min";"17,768220";
+"MAutoLV 23";"M-Mode";"LV Mass";"mg";"163,096560";
+"MAutoLV 23";"M-Mode";"LV Mass Cor";"mg";"130,477248";
+"MAutoLV 23";"M-Mode";"LVAW;s";"mm";"1,183111";
+"MAutoLV 23";"M-Mode";"LVAW;d";"mm";"0,898150";
+"MAutoLV 23";"M-Mode";"LVPW;s";"mm";"1,292916";
+"MAutoLV 23";"M-Mode";"LVPW;d";"mm";"1,026113";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,903125";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,363542";
+"LVID;d";"M-Mode";"Depth";"mm";"4,126042";
+"LVID;s";"M-Mode";"Depth";"mm";"2,992708";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,938542";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,345833";
+
+Calculation;;Units;
+"EF";;"%";53,822007;
+"FS";;"%";27,467825;
+"LV Mass AW";;"mg";149,829948;
+"LV Mass AW (Corrected)";;"mg";119,863958;
+"LV Vol;d";;"uL";75,344076;
+"LV Vol;s";;"uL";34,792382;
+
+
+
+"Series Name";"C10A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"16:20:47"
+"Animal ID";"82Z-09599"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"C57Bl/6NCrl"
+"Source";""
+"Weight";"33,63"
+"Type";""
+"Date of Birth";"25.12.2021"
+"Temperature";"36,4"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,572140";
+"MAutoLV 22";"M-Mode";"Heart Rate";"BPM";"438,981563";
+"MAutoLV 22";"M-Mode";"Diameter;s";"mm";"2,492825";
+"MAutoLV 22";"M-Mode";"Diameter;d";"mm";"3,766397";
+"MAutoLV 22";"M-Mode";"Volume;s";"uL";"22,286057";
+"MAutoLV 22";"M-Mode";"Volume;d";"uL";"60,653114";
+"MAutoLV 22";"M-Mode";"Stroke Volume";"uL";"38,367058";
+"MAutoLV 22";"M-Mode";"Ejection Fraction";"%";"63,256534";
+"MAutoLV 22";"M-Mode";"Fractional Shortening";"%";"33,814060";
+"MAutoLV 22";"M-Mode";"Cardiac Output";"mL/min";"16,842431";
+"MAutoLV 22";"M-Mode";"LV Mass";"mg";"127,585605";
+"MAutoLV 22";"M-Mode";"LV Mass Cor";"mg";"102,068484";
+"MAutoLV 22";"M-Mode";"LVAW;s";"mm";"1,466990";
+"MAutoLV 22";"M-Mode";"LVAW;d";"mm";"0,990770";
+"MAutoLV 22";"M-Mode";"LVPW;s";"mm";"0,963409";
+"MAutoLV 22";"M-Mode";"LVPW;d";"mm";"0,831939";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"1,097917";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,345833";
+"LVID;d";"M-Mode";"Depth";"mm";"3,577083";
+"LVID;s";"M-Mode";"Depth";"mm";"2,744792";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,761458";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,044792";
+
+Calculation;;Units;
+"EF";;"%";47,511672;
+"FS";;"%";23,267310;
+"LV Mass AW";;"mg";120,994207;
+"LV Mass AW (Corrected)";;"mg";96,795366;
+"LV Vol;d";;"uL";53,603828;
+"LV Vol;s";;"uL";28,135753;
+
+
+
+"Series Name";"C8A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"16:13:33"
+"Animal ID";"E64-G5579"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"24,17"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"37,4"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,348416";
+"MAutoLV 18";"M-Mode";"Heart Rate";"BPM";"477,440917";
+"MAutoLV 18";"M-Mode";"Diameter;s";"mm";"2,994743";
+"MAutoLV 18";"M-Mode";"Diameter;d";"mm";"4,229588";
+"MAutoLV 18";"M-Mode";"Volume;s";"uL";"34,854951";
+"MAutoLV 18";"M-Mode";"Volume;d";"uL";"79,893105";
+"MAutoLV 18";"M-Mode";"Stroke Volume";"uL";"45,038154";
+"MAutoLV 18";"M-Mode";"Ejection Fraction";"%";"56,373018";
+"MAutoLV 18";"M-Mode";"Fractional Shortening";"%";"29,195389";
+"MAutoLV 18";"M-Mode";"Cardiac Output";"mL/min";"21,503058";
+"MAutoLV 18";"M-Mode";"LV Mass";"mg";"150,692116";
+"MAutoLV 18";"M-Mode";"LV Mass Cor";"mg";"120,553693";
+"MAutoLV 18";"M-Mode";"LVAW;s";"mm";"1,160384";
+"MAutoLV 18";"M-Mode";"LVAW;d";"mm";"0,856648";
+"MAutoLV 18";"M-Mode";"LVPW;s";"mm";"1,317475";
+"MAutoLV 18";"M-Mode";"LVPW;d";"mm";"0,939325";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,885417";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,239583";
+"LVID;d";"M-Mode";"Depth";"mm";"4,250000";
+"LVID;s";"M-Mode";"Depth";"mm";"2,921875";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,850000";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,328125";
+
+Calculation;;Units;
+"EF";;"%";59,395415;
+"FS";;"%";31,250000;
+"LV Mass AW";;"mg";144,959387;
+"LV Mass AW (Corrected)";;"mg";115,967510;
+"LV Vol;d";;"uL";80,805921;
+"LV Vol;s";;"uL";32,810909;
+
+
+
+"Series Name";"C9A3"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"16:04:28"
+"Animal ID";"E64-G5597"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"22,84"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"37,1"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,340989";
+"MAutoLV 21";"M-Mode";"Heart Rate";"BPM";"431,778929";
+"MAutoLV 21";"M-Mode";"Diameter;s";"mm";"2,924122";
+"MAutoLV 21";"M-Mode";"Diameter;d";"mm";"3,852427";
+"MAutoLV 21";"M-Mode";"Volume;s";"uL";"32,875950";
+"MAutoLV 21";"M-Mode";"Volume;d";"uL";"64,014180";
+"MAutoLV 21";"M-Mode";"Stroke Volume";"uL";"31,138230";
+"MAutoLV 21";"M-Mode";"Ejection Fraction";"%";"48,642707";
+"MAutoLV 21";"M-Mode";"Fractional Shortening";"%";"24,096626";
+"MAutoLV 21";"M-Mode";"Cardiac Output";"mL/min";"13,444832";
+"MAutoLV 21";"M-Mode";"LV Mass";"mg";"124,287253";
+"MAutoLV 21";"M-Mode";"LV Mass Cor";"mg";"99,429803";
+"MAutoLV 21";"M-Mode";"LVAW;s";"mm";"1,319838";
+"MAutoLV 21";"M-Mode";"LVAW;d";"mm";"0,989865";
+"MAutoLV 21";"M-Mode";"LVPW;s";"mm";"0,939207";
+"MAutoLV 21";"M-Mode";"LVPW;d";"mm";"0,753349";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,973958";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,310417";
+"LVID;d";"M-Mode";"Depth";"mm";"3,825000";
+"LVID;s";"M-Mode";"Depth";"mm";"2,904167";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,619792";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,885417";
+
+Calculation;;Units;
+"EF";;"%";48,632006;
+"FS";;"%";24,074065;
+"LV Mass AW";;"mg";108,614645;
+"LV Mass AW (Corrected)";;"mg";86,891716;
+"LV Vol;d";;"uL";62,929315;
+"LV Vol;s";;"uL";32,325527;
+
+
+
+"Series Name";"C9A2"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"15:55:47"
+"Animal ID";"E64-G5596"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"21,66"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"37,3"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,391770";
+"MAutoLV 20";"M-Mode";"Heart Rate";"BPM";"397,706559";
+"MAutoLV 20";"M-Mode";"Diameter;s";"mm";"2,356502";
+"MAutoLV 20";"M-Mode";"Diameter;d";"mm";"3,582792";
+"MAutoLV 20";"M-Mode";"Volume;s";"uL";"19,261557";
+"MAutoLV 20";"M-Mode";"Volume;d";"uL";"53,811852";
+"MAutoLV 20";"M-Mode";"Stroke Volume";"uL";"34,550295";
+"MAutoLV 20";"M-Mode";"Ejection Fraction";"%";"64,205735";
+"MAutoLV 20";"M-Mode";"Fractional Shortening";"%";"34,227228";
+"MAutoLV 20";"M-Mode";"Cardiac Output";"mL/min";"13,740879";
+"MAutoLV 20";"M-Mode";"LV Mass";"mg";"115,467215";
+"MAutoLV 20";"M-Mode";"LV Mass Cor";"mg";"92,373772";
+"MAutoLV 20";"M-Mode";"LVAW;s";"mm";"1,409095";
+"MAutoLV 20";"M-Mode";"LVAW;d";"mm";"0,907421";
+"MAutoLV 20";"M-Mode";"LVPW;s";"mm";"1,106668";
+"MAutoLV 20";"M-Mode";"LVPW;d";"mm";"0,888920";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,832292";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,257292";
+"LVID;d";"M-Mode";"Depth";"mm";"3,541667";
+"LVID;s";"M-Mode";"Depth";"mm";"2,337500";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,920833";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,097917";
+
+Calculation;;Units;
+"EF";;"%";63,942902;
+"FS";;"%";34,000006;
+"LV Mass AW";;"mg";109,526730;
+"LV Mass AW (Corrected)";;"mg";87,621384;
+"LV Vol;d";;"uL";52,337492;
+"LV Vol;s";;"uL";18,871381;
+
+
+
+"Series Name";"C9A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"15:45:36"
+"Animal ID";"E64-G5595"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"23,21"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"35,8"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,406774";
+"MAutoLV 19";"M-Mode";"Heart Rate";"BPM";"431,918799";
+"MAutoLV 19";"M-Mode";"Diameter;s";"mm";"2,602627";
+"MAutoLV 19";"M-Mode";"Diameter;d";"mm";"3,615979";
+"MAutoLV 19";"M-Mode";"Volume;s";"uL";"24,669940";
+"MAutoLV 19";"M-Mode";"Volume;d";"uL";"55,014459";
+"MAutoLV 19";"M-Mode";"Stroke Volume";"uL";"30,344518";
+"MAutoLV 19";"M-Mode";"Ejection Fraction";"%";"55,157351";
+"MAutoLV 19";"M-Mode";"Fractional Shortening";"%";"28,024298";
+"MAutoLV 19";"M-Mode";"Cardiac Output";"mL/min";"13,106368";
+"MAutoLV 19";"M-Mode";"LV Mass";"mg";"95,046683";
+"MAutoLV 19";"M-Mode";"LV Mass Cor";"mg";"76,037346";
+"MAutoLV 19";"M-Mode";"LVAW;s";"mm";"1,076281";
+"MAutoLV 19";"M-Mode";"LVAW;d";"mm";"0,783056";
+"MAutoLV 19";"M-Mode";"LVPW;s";"mm";"1,024550";
+"MAutoLV 19";"M-Mode";"LVPW;d";"mm";"0,762901";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,815625";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,072396";
+"LVID;d";"M-Mode";"Depth";"mm";"3,534375";
+"LVID;s";"M-Mode";"Depth";"mm";"2,628125";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,860938";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,027083";
+
+Calculation;;Units;
+"EF";;"%";51,474604;
+"FS";;"%";25,641026;
+"LV Mass AW";;"mg";102,505790;
+"LV Mass AW (Corrected)";;"mg";82,004632;
+"LV Vol;d";;"uL";52,078796;
+"LV Vol;s";;"uL";25,271442;
+
+
+
+"Series Name";"C7A2"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"15:34:51"
+"Animal ID";"E64-G5573"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"22,79"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"37,2"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,323490";
+"MAutoLV 17";"M-Mode";"Heart Rate";"BPM";"438,692696";
+"MAutoLV 17";"M-Mode";"Diameter;s";"mm";"3,302002";
+"MAutoLV 17";"M-Mode";"Diameter;d";"mm";"4,633541";
+"MAutoLV 17";"M-Mode";"Volume;s";"uL";"44,199531";
+"MAutoLV 17";"M-Mode";"Volume;d";"uL";"99,006349";
+"MAutoLV 17";"M-Mode";"Stroke Volume";"uL";"54,806818";
+"MAutoLV 17";"M-Mode";"Ejection Fraction";"%";"55,356872";
+"MAutoLV 17";"M-Mode";"Fractional Shortening";"%";"28,736950";
+"MAutoLV 17";"M-Mode";"Cardiac Output";"mL/min";"24,043351";
+"MAutoLV 17";"M-Mode";"LV Mass";"mg";"147,653225";
+"MAutoLV 17";"M-Mode";"LV Mass Cor";"mg";"118,122580";
+"MAutoLV 17";"M-Mode";"LVAW;s";"mm";"1,324002";
+"MAutoLV 17";"M-Mode";"LVAW;d";"mm";"0,944652";
+"MAutoLV 17";"M-Mode";"LVPW;s";"mm";"0,947577";
+"MAutoLV 17";"M-Mode";"LVPW;d";"mm";"0,633701";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,914062";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,320312";
+"LVID;d";"M-Mode";"Depth";"mm";"4,590625";
+"LVID;s";"M-Mode";"Depth";"mm";"3,229687";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,568750";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,954687";
+
+Calculation;;Units;
+"EF";;"%";56,758812;
+"FS";;"%";29,646029;
+"LV Mass AW";;"mg";134,032768;
+"LV Mass AW (Corrected)";;"mg";107,226214;
+"LV Vol;d";;"uL";96,871826;
+"LV Vol;s";;"uL";41,888528;
+
+
+
+"Series Name";"C7A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"15:25:34"
+"Animal ID";"E64-G5570"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"24,59"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"36,3"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,327225";
+"MAutoLV 16";"M-Mode";"Heart Rate";"BPM";"435,097897";
+"MAutoLV 16";"M-Mode";"Diameter;s";"mm";"3,159917";
+"MAutoLV 16";"M-Mode";"Diameter;d";"mm";"4,388959";
+"MAutoLV 16";"M-Mode";"Volume;s";"uL";"39,729995";
+"MAutoLV 16";"M-Mode";"Volume;d";"uL";"87,176786";
+"MAutoLV 16";"M-Mode";"Stroke Volume";"uL";"47,446791";
+"MAutoLV 16";"M-Mode";"Ejection Fraction";"%";"54,425947";
+"MAutoLV 16";"M-Mode";"Fractional Shortening";"%";"28,003036";
+"MAutoLV 16";"M-Mode";"Cardiac Output";"mL/min";"20,643999";
+"MAutoLV 16";"M-Mode";"LV Mass";"mg";"112,699569";
+"MAutoLV 16";"M-Mode";"LV Mass Cor";"mg";"90,159655";
+"MAutoLV 16";"M-Mode";"LVAW;s";"mm";"1,005074";
+"MAutoLV 16";"M-Mode";"LVAW;d";"mm";"0,672138";
+"MAutoLV 16";"M-Mode";"LVPW;s";"mm";"1,129781";
+"MAutoLV 16";"M-Mode";"LVPW;d";"mm";"0,703606";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,743750";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,080208";
+"LVID;d";"M-Mode";"Depth";"mm";"4,267708";
+"LVID;s";"M-Mode";"Depth";"mm";"2,921875";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,708333";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,168750";
+
+Calculation;;Units;
+"EF";;"%";59,791979;
+"FS";;"%";31,535264;
+"LV Mass AW";;"mg";115,197730;
+"LV Mass AW (Corrected)";;"mg";92,158184;
+"LV Vol;d";;"uL";81,602894;
+"LV Vol;s";;"uL";32,810909;
+
+
+
+"Series Name";"C6A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"15:06:36"
+"Animal ID";"E64-G5541"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"23,25"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"36,1"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,376817";
+"MAutoLV 15";"M-Mode";"Heart Rate";"BPM";"409,346751";
+"MAutoLV 15";"M-Mode";"Diameter;s";"mm";"2,809283";
+"MAutoLV 15";"M-Mode";"Diameter;d";"mm";"4,013526";
+"MAutoLV 15";"M-Mode";"Volume;s";"uL";"29,793613";
+"MAutoLV 15";"M-Mode";"Volume;d";"uL";"70,564237";
+"MAutoLV 15";"M-Mode";"Stroke Volume";"uL";"40,770625";
+"MAutoLV 15";"M-Mode";"Ejection Fraction";"%";"57,778027";
+"MAutoLV 15";"M-Mode";"Fractional Shortening";"%";"30,004620";
+"MAutoLV 15";"M-Mode";"Cardiac Output";"mL/min";"16,689323";
+"MAutoLV 15";"M-Mode";"LV Mass";"mg";"108,973926";
+"MAutoLV 15";"M-Mode";"LV Mass Cor";"mg";"87,179140";
+"MAutoLV 15";"M-Mode";"LVAW;s";"mm";"1,280727";
+"MAutoLV 15";"M-Mode";"LVAW;d";"mm";"0,803787";
+"MAutoLV 15";"M-Mode";"LVPW;s";"mm";"0,880199";
+"MAutoLV 15";"M-Mode";"LVPW;d";"mm";"0,702072";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,743750";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,239583";
+"LVID;d";"M-Mode";"Depth";"mm";"4,002083";
+"LVID;s";"M-Mode";"Depth";"mm";"2,638542";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,637500";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,938542";
+
+Calculation;;Units;
+"EF";;"%";63,587526;
+"FS";;"%";34,070783;
+"LV Mass AW";;"mg";96,781683;
+"LV Mass AW (Corrected)";;"mg";77,425346;
+"LV Vol;d";;"uL";70,086603;
+"LV Vol;s";;"uL";25,520266;
+
+
+
+"Series Name";"C5A1"
+"Acquired By";"Sara Dias"
+"Series Date";"23.03.2022"
+"Series Time";"14:54:07"
+"Animal ID";"E64-G5534"
+"Sex";"male"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"21,83"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"36,9"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,349417";
+"MAutoLV 14";"M-Mode";"Heart Rate";"BPM";"484,261501";
+"MAutoLV 14";"M-Mode";"Diameter;s";"mm";"3,112087";
+"MAutoLV 14";"M-Mode";"Diameter;d";"mm";"3,933629";
+"MAutoLV 14";"M-Mode";"Volume;s";"uL";"38,280674";
+"MAutoLV 14";"M-Mode";"Volume;d";"uL";"67,273123";
+"MAutoLV 14";"M-Mode";"Stroke Volume";"uL";"28,992449";
+"MAutoLV 14";"M-Mode";"Ejection Fraction";"%";"43,096631";
+"MAutoLV 14";"M-Mode";"Fractional Shortening";"%";"20,885107";
+"MAutoLV 14";"M-Mode";"Cardiac Output";"mL/min";"14,039927";
+"MAutoLV 14";"M-Mode";"LV Mass";"mg";"100,859135";
+"MAutoLV 14";"M-Mode";"LV Mass Cor";"mg";"80,687308";
+"MAutoLV 14";"M-Mode";"LVAW;s";"mm";"1,057039";
+"MAutoLV 14";"M-Mode";"LVAW;d";"mm";"0,744725";
+"MAutoLV 14";"M-Mode";"LVPW;s";"mm";"0,857481";
+"MAutoLV 14";"M-Mode";"LVPW;d";"mm";"0,712318";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,690625";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,027083";
+"LVID;d";"M-Mode";"Depth";"mm";"3,913542";
+"LVID;s";"M-Mode";"Depth";"mm";"2,868750";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,566667";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,973958";
+
+Calculation;;Units;
+"EF";;"%";52,800914;
+"FS";;"%";26,696839;
+"LV Mass AW";;"mg";82,466990;
+"LV Mass AW (Corrected)";;"mg";65,973592;
+"LV Vol;d";;"uL";66,456117;
+"LV Vol;s";;"uL";31,366680;
+
+
+
+"Series Name";"C4A4"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"17:56:21"
+"Animal ID";"E64-G5490"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"18,28"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"31,2"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,336652";
+"MAutoLV 13";"M-Mode";"Heart Rate";"BPM";"386,473430";
+"MAutoLV 13";"M-Mode";"Diameter;s";"mm";"2,656378";
+"MAutoLV 13";"M-Mode";"Diameter;d";"mm";"3,815493";
+"MAutoLV 13";"M-Mode";"Volume;s";"uL";"25,953781";
+"MAutoLV 13";"M-Mode";"Volume;d";"uL";"62,558503";
+"MAutoLV 13";"M-Mode";"Stroke Volume";"uL";"36,604722";
+"MAutoLV 13";"M-Mode";"Ejection Fraction";"%";"58,512784";
+"MAutoLV 13";"M-Mode";"Fractional Shortening";"%";"30,379163";
+"MAutoLV 13";"M-Mode";"Cardiac Output";"mL/min";"14,146752";
+"MAutoLV 13";"M-Mode";"LV Mass";"mg";"80,745458";
+"MAutoLV 13";"M-Mode";"LV Mass Cor";"mg";"64,596367";
+"MAutoLV 13";"M-Mode";"LVAW;s";"mm";"1,034228";
+"MAutoLV 13";"M-Mode";"LVAW;d";"mm";"0,632405";
+"MAutoLV 13";"M-Mode";"LVPW;s";"mm";"0,895565";
+"MAutoLV 13";"M-Mode";"LVPW;d";"mm";"0,646666";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,619271";
+"LVAW;s";"M-Mode";"Depth";"mm";"0,936458";
+"LVID;d";"M-Mode";"Depth";"mm";"3,806250";
+"LVID;s";"M-Mode";"Depth";"mm";"2,582813";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,543750";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,921354";
+
+Calculation;;Units;
+"EF";;"%";61,082795;
+"FS";;"%";32,142844;
+"LV Mass AW";;"mg";71,147277;
+"LV Mass AW (Corrected)";;"mg";56,917822;
+"LV Vol;d";;"uL";62,195749;
+"LV Vol;s";;"uL";24,204847;
+
+
+
+"Series Name";"C4A3"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"17:32:44"
+"Animal ID";"E64-G5489"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"23,07"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"37,2"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX AM-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LV Trace";"AM-Mode";"Heart Rate";"BPM";"505,263158";
+"LV Trace";"AM-Mode";"Diameter;s";"mm";"2,824188";
+"LV Trace";"AM-Mode";"Diameter;d";"mm";"3,938379";
+"LV Trace";"AM-Mode";"Volume;s";"uL";"30,209545";
+"LV Trace";"AM-Mode";"Volume;d";"uL";"67,521784";
+"LV Trace";"AM-Mode";"Stroke Volume";"uL";"37,312239";
+"LV Trace";"AM-Mode";"Ejection Fraction";"%";"55,259557";
+"LV Trace";"AM-Mode";"Fractional Shortening";"%";"28,290590";
+"LV Trace";"AM-Mode";"Cardiac Output";"mL/min";"18,852500";
+"LV Trace";"AM-Mode";"LV Mass";"mg";"116,227816";
+"LV Trace";"AM-Mode";"LV Mass Cor";"mg";"92,982253";
+
+Calculation;;Units;
+"CO (LV Trace)";;"mL/min";18,852500;
+"Diameter;d (LV Trace)";;"mm";3,938379;
+"Diameter;s (LV Trace)";;"mm";2,824188;
+"EF (LV Trace)";;"%";55,259557;
+"FS (LV Trace)";;"%";28,290590;
+"LV Mass (LV Trace)";;"mg";116,227816;
+"LV Mass Corr (LV Trace)";;"mg";92,982253;
+"SV (LV Trace)";;"uL";37,312239;
+"V;d (LV Trace)";;"uL";67,521784;
+"V;s (LV Trace)";;"uL";30,209545;
+
+"Protocol Name";"Anatomical M-Mode AM-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"AM-Mode";"Depth";"mm";"0,807523";
+"LVAW;s";"AM-Mode";"Depth";"mm";"1,272875";
+"LVID;d";"AM-Mode";"Depth";"mm";"4,092360";
+"LVID;s";"AM-Mode";"Depth";"mm";"2,819486";
+"LW;d";"AM-Mode";"Depth";"mm";"0,615907";
+"LW;s";"AM-Mode";"Depth";"mm";"0,834896";
+
+Calculation;;Units;
+"LV EF";;"%";59,321663;
+"LV FS";;"%";31,103666;
+"LV Mass AW";;"mg";104,537236;
+"LV Mass AW Corr.";;"mg";83,629789;
+"LV Vol;d";;"uL";73,895321;
+"LV Vol;s";;"uL";30,059388;
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,264634";
+
+
+"Series Name";"C4A2"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"17:24:53"
+"Animal ID";"E64-G5482"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"23,07"
+"Type";""
+"Date of Birth";"29.12.2021"
+"Temperature";"34,6"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,429099";
+"MAutoLV 11";"M-Mode";"Heart Rate";"BPM";"424,118188";
+"MAutoLV 11";"M-Mode";"Diameter;s";"mm";"2,382739";
+"MAutoLV 11";"M-Mode";"Diameter;d";"mm";"4,108733";
+"MAutoLV 11";"M-Mode";"Volume;s";"uL";"19,832262";
+"MAutoLV 11";"M-Mode";"Volume;d";"uL";"74,598504";
+"MAutoLV 11";"M-Mode";"Stroke Volume";"uL";"54,766241";
+"MAutoLV 11";"M-Mode";"Ejection Fraction";"%";"73,414665";
+"MAutoLV 11";"M-Mode";"Fractional Shortening";"%";"42,007931";
+"MAutoLV 11";"M-Mode";"Cardiac Output";"mL/min";"23,227359";
+"MAutoLV 11";"M-Mode";"LV Mass";"mg";"92,121751";
+"MAutoLV 11";"M-Mode";"LV Mass Cor";"mg";"73,697401";
+"MAutoLV 11";"M-Mode";"LVAW;s";"mm";"1,320991";
+"MAutoLV 11";"M-Mode";"LVAW;d";"mm";"0,649944";
+"MAutoLV 11";"M-Mode";"LVPW;s";"mm";"1,146639";
+"MAutoLV 11";"M-Mode";"LVPW;d";"mm";"0,634266";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,548958";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,097917";
+"LVID;d";"M-Mode";"Depth";"mm";"4,161458";
+"LVID;s";"M-Mode";"Depth";"mm";"2,727083";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,495833";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,885417";
+
+Calculation;;Units;
+"EF";;"%";63,984576;
+"FS";;"%";34,468088;
+"LV Mass AW";;"mg";72,708082;
+"LV Mass AW (Corrected)";;"mg";58,166466;
+"LV Vol;d";;"uL";76,883693;
+"LV Vol;s";;"uL";27,689988;
+
+
+
+"Series Name";"C4A1"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"17:15:46"
+"Animal ID";"E64-G5481"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Gm20219"
+"Source";""
+"Weight";"20,99"
+"Type";""
+"Date of Birth";"29.12.2021"
+"Temperature";"36,6"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,262072";
+"MAutoLV 10";"M-Mode";"Heart Rate";"BPM";"447,343896";
+"MAutoLV 10";"M-Mode";"Diameter;s";"mm";"2,668152";
+"MAutoLV 10";"M-Mode";"Diameter;d";"mm";"3,827727";
+"MAutoLV 10";"M-Mode";"Volume;s";"uL";"26,238707";
+"MAutoLV 10";"M-Mode";"Volume;d";"uL";"63,038762";
+"MAutoLV 10";"M-Mode";"Stroke Volume";"uL";"36,800055";
+"MAutoLV 10";"M-Mode";"Ejection Fraction";"%";"58,376868";
+"MAutoLV 10";"M-Mode";"Fractional Shortening";"%";"30,294086";
+"MAutoLV 10";"M-Mode";"Cardiac Output";"mL/min";"16,462280";
+"MAutoLV 10";"M-Mode";"LV Mass";"mg";"105,282811";
+"MAutoLV 10";"M-Mode";"LV Mass Cor";"mg";"84,226249";
+"MAutoLV 10";"M-Mode";"LVAW;s";"mm";"1,231371";
+"MAutoLV 10";"M-Mode";"LVAW;d";"mm";"0,885549";
+"MAutoLV 10";"M-Mode";"LVPW;s";"mm";"0,984254";
+"MAutoLV 10";"M-Mode";"LVPW;d";"mm";"0,670691";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,966667";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,283854";
+"LVID;d";"M-Mode";"Depth";"mm";"3,745833";
+"LVID;s";"M-Mode";"Depth";"mm";"2,703646";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,634375";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,860938";
+
+Calculation;;Units;
+"EF";;"%";54,720205;
+"FS";;"%";27,822570;
+"LV Mass AW";;"mg";105,619502;
+"LV Mass AW (Corrected)";;"mg";84,495602;
+"LV Vol;d";;"uL";59,863557;
+"LV Vol;s";;"uL";27,106096;
+
+
+
+"Series Name";"C3A3"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"17:07:31"
+"Animal ID";"82Z-09604"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"C57Bl/6NCrl"
+"Source";""
+"Weight";"22,28"
+"Type";""
+"Date of Birth";"25.12.2021"
+"Temperature";"37,4"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,343317";
+"MAutoLV 9";"M-Mode";"Heart Rate";"BPM";"511,508951";
+"MAutoLV 9";"M-Mode";"Diameter;s";"mm";"3,024962";
+"MAutoLV 9";"M-Mode";"Diameter;d";"mm";"4,031696";
+"MAutoLV 9";"M-Mode";"Volume;s";"uL";"35,716933";
+"MAutoLV 9";"M-Mode";"Volume;d";"uL";"71,325489";
+"MAutoLV 9";"M-Mode";"Stroke Volume";"uL";"35,608557";
+"MAutoLV 9";"M-Mode";"Ejection Fraction";"%";"49,924027";
+"MAutoLV 9";"M-Mode";"Fractional Shortening";"%";"24,970497";
+"MAutoLV 9";"M-Mode";"Cardiac Output";"mL/min";"18,214095";
+"MAutoLV 9";"M-Mode";"LV Mass";"mg";"138,025482";
+"MAutoLV 9";"M-Mode";"LV Mass Cor";"mg";"110,420385";
+"MAutoLV 9";"M-Mode";"LVAW;s";"mm";"1,204623";
+"MAutoLV 9";"M-Mode";"LVAW;d";"mm";"0,950268";
+"MAutoLV 9";"M-Mode";"LVPW;s";"mm";"1,015508";
+"MAutoLV 9";"M-Mode";"LVPW;d";"mm";"0,832860";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,920833";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,097917";
+"LVID;d";"M-Mode";"Depth";"mm";"3,984375";
+"LVID;s";"M-Mode";"Depth";"mm";"3,028125";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,743750";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,027083";
+
+Calculation;;Units;
+"EF";;"%";48,369144;
+"FS";;"%";24,000000;
+"LV Mass AW";;"mg";123,210927;
+"LV Mass AW (Corrected)";;"mg";98,568742;
+"LV Vol;d";;"uL";69,352205;
+"LV Vol;s";;"uL";35,807137;
+
+
+
+"Series Name";"C3A2"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"16:48:34"
+"Animal ID";"82Z-09603"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"C57Bl/6NCrl"
+"Source";""
+"Weight";"18,56"
+"Type";""
+"Date of Birth";"25.12.2021"
+"Temperature";"36,2"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,279111";
+"Linear 11";"B-Mode";"Length";"mm";"1,250903";
+
+
+"Series Name";"C3A1"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"16:28:25"
+"Animal ID";"82Z-09602"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"C57Bl/6NCrl"
+"Source";""
+"Weight";"22,43"
+"Type";""
+"Date of Birth";"25.12.2021"
+"Temperature";"37,5"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,418670";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX AM-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LV Trace";"AM-Mode";"Heart Rate";"BPM";"622,433542";
+"LV Trace";"AM-Mode";"Diameter;s";"mm";"3,401236";
+"LV Trace";"AM-Mode";"Diameter;d";"mm";"4,203508";
+"LV Trace";"AM-Mode";"Volume;s";"uL";"47,508337";
+"LV Trace";"AM-Mode";"Volume;d";"uL";"78,797783";
+"LV Trace";"AM-Mode";"Stroke Volume";"uL";"31,289446";
+"LV Trace";"AM-Mode";"Ejection Fraction";"%";"39,708536";
+"LV Trace";"AM-Mode";"Fractional Shortening";"%";"19,085780";
+"LV Trace";"AM-Mode";"Cardiac Output";"mL/min";"19,475600";
+"LV Trace";"AM-Mode";"LV Mass";"mg";"101,333865";
+"LV Trace";"AM-Mode";"LV Mass Cor";"mg";"81,067092";
+
+Calculation;;Units;
+"CO (LV Trace)";;"mL/min";19,475600;
+"Diameter;d (LV Trace)";;"mm";4,203508;
+"Diameter;s (LV Trace)";;"mm";3,401236;
+"EF (LV Trace)";;"%";39,708536;
+"FS (LV Trace)";;"%";19,085780;
+"LV Mass (LV Trace)";;"mg";101,333865;
+"LV Mass Corr (LV Trace)";;"mg";81,067092;
+"SV (LV Trace)";;"uL";31,289446;
+"V;d (LV Trace)";;"uL";78,797783;
+"V;s (LV Trace)";;"uL";47,508337;
+
+"Protocol Name";"Anatomical M-Mode AM-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"AM-Mode";"Depth";"mm";"0,721550";
+"LVAW;s";"AM-Mode";"Depth";"mm";"0,929689";
+"LVID;d";"AM-Mode";"Depth";"mm";"4,204415";
+"LVID;s";"AM-Mode";"Depth";"mm";"3,330229";
+"LW;d";"AM-Mode";"Depth";"mm";"0,624418";
+"LW;s";"AM-Mode";"Depth";"mm";"0,888061";
+
+Calculation;;Units;
+"LV EF";;"%";42,724625;
+"LV FS";;"%";20,792096;
+"LV Mass AW";;"mg";101,790753;
+"LV Mass AW Corr.";;"mg";81,432602;
+"LV Vol;d";;"uL";78,773550;
+"LV Vol;s";;"uL";45,117846;
+
+
+
+"Series Name";"C2A2"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"15:39:37"
+"Animal ID";"E64-G5599"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"17,43"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"35,9"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,381711";
+"MAutoLV 7";"M-Mode";"Heart Rate";"BPM";"456,777435";
+"MAutoLV 7";"M-Mode";"Diameter;s";"mm";"1,900285";
+"MAutoLV 7";"M-Mode";"Diameter;d";"mm";"3,474437";
+"MAutoLV 7";"M-Mode";"Volume;s";"uL";"11,198315";
+"MAutoLV 7";"M-Mode";"Volume;d";"uL";"49,984971";
+"MAutoLV 7";"M-Mode";"Stroke Volume";"uL";"38,786655";
+"MAutoLV 7";"M-Mode";"Ejection Fraction";"%";"77,596636";
+"MAutoLV 7";"M-Mode";"Fractional Shortening";"%";"45,306676";
+"MAutoLV 7";"M-Mode";"Cardiac Output";"mL/min";"17,716869";
+"MAutoLV 7";"M-Mode";"LV Mass";"mg";"107,979995";
+"MAutoLV 7";"M-Mode";"LV Mass Cor";"mg";"86,383996";
+"MAutoLV 7";"M-Mode";"LVAW;s";"mm";"1,569363";
+"MAutoLV 7";"M-Mode";"LVAW;d";"mm";"0,971246";
+"MAutoLV 7";"M-Mode";"LVPW;s";"mm";"1,293435";
+"MAutoLV 7";"M-Mode";"LVPW;d";"mm";"0,801708";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,981771";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,570833";
+"LVID;d";"M-Mode";"Depth";"mm";"3,262500";
+"LVID;s";"M-Mode";"Depth";"mm";"1,691667";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,830729";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,555729";
+
+Calculation;;Units;
+"EF";;"%";80,706944;
+"FS";;"%";48,148138;
+"LV Mass AW";;"mg";101,071208;
+"LV Mass AW (Corrected)";;"mg";80,856966;
+"LV Vol;d";;"uL";42,928072;
+"LV Vol;s";;"uL";8,282137;
+
+
+
+"Series Name";"C2A1"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"15:31:08"
+"Animal ID";"E64-G5598"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"18,95"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"35,0"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,262072";
+"MAutoLV 5";"M-Mode";"Heart Rate";"BPM";"416,290849";
+"MAutoLV 5";"M-Mode";"Diameter;s";"mm";"2,918951";
+"MAutoLV 5";"M-Mode";"Diameter;d";"mm";"4,052596";
+"MAutoLV 5";"M-Mode";"Volume;s";"uL";"32,730613";
+"MAutoLV 5";"M-Mode";"Volume;d";"uL";"72,205158";
+"MAutoLV 5";"M-Mode";"Stroke Volume";"uL";"39,474545";
+"MAutoLV 5";"M-Mode";"Ejection Fraction";"%";"54,669979";
+"MAutoLV 5";"M-Mode";"Fractional Shortening";"%";"27,973290";
+"MAutoLV 5";"M-Mode";"Cardiac Output";"mL/min";"16,432892";
+"MAutoLV 5";"M-Mode";"LV Mass";"mg";"145,403275";
+"MAutoLV 5";"M-Mode";"LV Mass Cor";"mg";"116,322620";
+"MAutoLV 5";"M-Mode";"LVAW;s";"mm";"1,312100";
+"MAutoLV 5";"M-Mode";"LVAW;d";"mm";"0,865183";
+"MAutoLV 5";"M-Mode";"LVPW;s";"mm";"1,105919";
+"MAutoLV 5";"M-Mode";"LVPW;d";"mm";"0,975162";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,867708";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,275000";
+"LVID;d";"M-Mode";"Depth";"mm";"4,002083";
+"LVID;s";"M-Mode";"Depth";"mm";"2,744792";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,973958";
+"LVPW;s";"M-Mode";"Depth";"mm";"1,168750";
+
+Calculation;;Units;
+"EF";;"%";59,855733;
+"FS";;"%";31,415915;
+"LV Mass AW";;"mg";142,639906;
+"LV Mass AW (Corrected)";;"mg";114,111925;
+"LV Vol;d";;"uL";70,086603;
+"LV Vol;s";;"uL";28,135753;
+
+
+
+"Series Name";"C1A4"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"15:22:12"
+"Animal ID";"E64-G5582"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"20,08"
+"Type";""
+"Date of Birth";"27.12.2021"
+"Temperature";"37,9"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,174523";
+"MAutoLV 4";"M-Mode";"Heart Rate";"BPM";"500,625782";
+"MAutoLV 4";"M-Mode";"Diameter;s";"mm";"2,837536";
+"MAutoLV 4";"M-Mode";"Diameter;d";"mm";"3,758905";
+"MAutoLV 4";"M-Mode";"Volume;s";"uL";"30,534844";
+"MAutoLV 4";"M-Mode";"Volume;d";"uL";"60,364874";
+"MAutoLV 4";"M-Mode";"Stroke Volume";"uL";"29,830029";
+"MAutoLV 4";"M-Mode";"Ejection Fraction";"%";"49,416204";
+"MAutoLV 4";"M-Mode";"Fractional Shortening";"%";"24,511627";
+"MAutoLV 4";"M-Mode";"Cardiac Output";"mL/min";"14,933682";
+"MAutoLV 4";"M-Mode";"LV Mass";"mg";"99,223611";
+"MAutoLV 4";"M-Mode";"LV Mass Cor";"mg";"79,378889";
+"MAutoLV 4";"M-Mode";"LVAW;s";"mm";"1,168157";
+"MAutoLV 4";"M-Mode";"LVAW;d";"mm";"0,897155";
+"MAutoLV 4";"M-Mode";"LVPW;s";"mm";"0,869184";
+"MAutoLV 4";"M-Mode";"LVPW;d";"mm";"0,625643";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"1,027083";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,168750";
+"LVID;d";"M-Mode";"Depth";"mm";"3,683333";
+"LVID;s";"M-Mode";"Depth";"mm";"2,709375";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,637500";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,956250";
+
+Calculation;;Units;
+"EF";;"%";52,613110;
+"FS";;"%";26,442301;
+"LV Mass AW";;"mg";108,437868;
+"LV Mass AW (Corrected)";;"mg";86,750294;
+"LV Vol;d";;"uL";57,501530;
+"LV Vol;s";;"uL";27,248187;
+
+
+
+"Series Name";"C1A3"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"15:15:30"
+"Animal ID";"E64-G5577"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"18,93"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"37,5"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,190273";
+"MAutoLV 3";"M-Mode";"Heart Rate";"BPM";"455,114347";
+"MAutoLV 3";"M-Mode";"Diameter;s";"mm";"3,021708";
+"MAutoLV 3";"M-Mode";"Diameter;d";"mm";"4,183220";
+"MAutoLV 3";"M-Mode";"Volume;s";"uL";"35,622298";
+"MAutoLV 3";"M-Mode";"Volume;d";"uL";"77,839115";
+"MAutoLV 3";"M-Mode";"Stroke Volume";"uL";"42,216818";
+"MAutoLV 3";"M-Mode";"Ejection Fraction";"%";"54,235994";
+"MAutoLV 3";"M-Mode";"Fractional Shortening";"%";"27,765991";
+"MAutoLV 3";"M-Mode";"Cardiac Output";"mL/min";"19,213479";
+"MAutoLV 3";"M-Mode";"LV Mass";"mg";"90,368610";
+"MAutoLV 3";"M-Mode";"LV Mass Cor";"mg";"72,294888";
+"MAutoLV 3";"M-Mode";"LVAW;s";"mm";"0,912921";
+"MAutoLV 3";"M-Mode";"LVAW;d";"mm";"0,636811";
+"MAutoLV 3";"M-Mode";"LVPW;s";"mm";"0,963358";
+"MAutoLV 3";"M-Mode";"LVPW;d";"mm";"0,597740";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,672917";
+"LVAW;s";"M-Mode";"Depth";"mm";"0,867708";
+"LVID;d";"M-Mode";"Depth";"mm";"4,072917";
+"LVID;s";"M-Mode";"Depth";"mm";"3,010417";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,584375";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,956250";
+
+Calculation;;Units;
+"EF";;"%";51,690495;
+"FS";;"%";26,086954;
+"LV Mass AW";;"mg";88,318315;
+"LV Mass AW (Corrected)";;"mg";70,654652;
+"LV Vol;d";;"uL";73,065890;
+"LV Vol;s";;"uL";35,297770;
+
+
+
+"Series Name";"C1A2"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"15:03:09"
+"Animal ID";"E64-G5576"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"19,22"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"37,5"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,248416";
+"MAutoLV 2";"M-Mode";"Heart Rate";"BPM";"440,965715";
+"MAutoLV 2";"M-Mode";"Diameter;s";"mm";"2,557801";
+"MAutoLV 2";"M-Mode";"Diameter;d";"mm";"3,546985";
+"MAutoLV 2";"M-Mode";"Volume;s";"uL";"23,630662";
+"MAutoLV 2";"M-Mode";"Volume;d";"uL";"52,527136";
+"MAutoLV 2";"M-Mode";"Stroke Volume";"uL";"28,896474";
+"MAutoLV 2";"M-Mode";"Ejection Fraction";"%";"55,012468";
+"MAutoLV 2";"M-Mode";"Fractional Shortening";"%";"27,888026";
+"MAutoLV 2";"M-Mode";"Cardiac Output";"mL/min";"12,742354";
+"MAutoLV 2";"M-Mode";"LV Mass";"mg";"87,674957";
+"MAutoLV 2";"M-Mode";"LV Mass Cor";"mg";"70,139966";
+"MAutoLV 2";"M-Mode";"LVAW;s";"mm";"1,121303";
+"MAutoLV 2";"M-Mode";"LVAW;d";"mm";"0,876262";
+"MAutoLV 2";"M-Mode";"LVPW;s";"mm";"0,841489";
+"MAutoLV 2";"M-Mode";"LVPW;d";"mm";"0,614954";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,830729";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,087500";
+"LVID;d";"M-Mode";"Depth";"mm";"3,594792";
+"LVID;s";"M-Mode";"Depth";"mm";"2,401562";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,558854";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,830729";
+
+Calculation;;Units;
+"EF";;"%";62,773544;
+"FS";;"%";33,193297;
+"LV Mass AW";;"mg";81,479010;
+"LV Mass AW (Corrected)";;"mg";65,183208;
+"LV Vol;d";;"uL";54,243190;
+"LV Vol;s";;"uL";20,192817;
+
+
+
+"Series Name";"C1A1"
+"Acquired By";"Sara Dias"
+"Series Date";"22.03.2022"
+"Series Time";"14:48:58"
+"Animal ID";"E64-G5557"
+"Sex";"female"
+"Pregnant";"no"
+"Series Notes";""
+"Application";"IMPC"
+"Measurement Package";"Cardiac Package"
+"Color";""
+"Strain";"Brinp3"
+"Source";""
+"Weight";"17,83"
+"Type";""
+"Date of Birth";"26.12.2021"
+"Temperature";"35,8"
+"Heart Rate";""
+"Anesthetic Type";""
+"Anesthetic On";""
+"Anesthetic Off";""
+"Protocol ID";""
+"Protocol Name";""
+"Injectable";""
+"Injection Site";""
+"Injection Amount";""
+
+
+
+"Measurement File";"VSI_GenericPackage.sxml"
+"Measurement Version";"0"
+"Measurement Description";"Generic Package"
+
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Value"
+"Aortic diam";"B-Mode";"Length";"mm";"1,162863";
+"MAutoLV 1";"M-Mode";"Heart Rate";"BPM";"430,725054";
+"MAutoLV 1";"M-Mode";"Diameter;s";"mm";"2,579104";
+"MAutoLV 1";"M-Mode";"Diameter;d";"mm";"3,775884";
+"MAutoLV 1";"M-Mode";"Volume;s";"uL";"24,119286";
+"MAutoLV 1";"M-Mode";"Volume;d";"uL";"61,017595";
+"MAutoLV 1";"M-Mode";"Stroke Volume";"uL";"36,898309";
+"MAutoLV 1";"M-Mode";"Ejection Fraction";"%";"60,471589";
+"MAutoLV 1";"M-Mode";"Fractional Shortening";"%";"31,695358";
+"MAutoLV 1";"M-Mode";"Cardiac Output";"mL/min";"15,893026";
+"MAutoLV 1";"M-Mode";"LV Mass";"mg";"89,954674";
+"MAutoLV 1";"M-Mode";"LV Mass Cor";"mg";"71,963739";
+"MAutoLV 1";"M-Mode";"LVAW;s";"mm";"1,203799";
+"MAutoLV 1";"M-Mode";"LVAW;d";"mm";"0,804509";
+"MAutoLV 1";"M-Mode";"LVPW;s";"mm";"0,880928";
+"MAutoLV 1";"M-Mode";"LVPW;d";"mm";"0,602948";
+
+"Measurement File";"VSI_CardiacPackage.sxml"
+"Measurement Version";"5"
+"Measurement Description";"Cardiac Package"
+
+"Protocol Name";"SAX M-Mode"
+;;;
+"Measurement";"Mode";"Parameter";"Units";"Instance 1"
+"LVAW;d";"M-Mode";"Depth";"mm";"0,885417";
+"LVAW;s";"M-Mode";"Depth";"mm";"1,186458";
+"LVID;d";"M-Mode";"Depth";"mm";"3,718750";
+"LVID;s";"M-Mode";"Depth";"mm";"2,567708";
+"LVPW;d";"M-Mode";"Depth";"mm";"0,531250";
+"LVPW;s";"M-Mode";"Depth";"mm";"0,903125";
+
+Calculation;;Units;
+"EF";;"%";59,453573;
+"FS";;"%";30,952390;
+"LV Mass AW";;"mg";88,459216;
+"LV Mass AW (Corrected)";;"mg";70,767373;
+"LV Vol;d";;"uL";58,833716;
+"LV Vol;s";;"uL";23,854970;
+
+
+
