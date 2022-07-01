@@ -1,6 +1,7 @@
 # Echo_IMPC_Reporter
 Matlab app that searches through sonography report (csv file) output from VevoLab (by Fujifilm Visualsonics) and saves Excel spreadsheet with selected parameters of interest.
-If you own Matlab license, use  , however, even if Matlab is missing on your computer youcan install the app as a standalone program using Echo_IMPC_reporter 1.1 installer.exe.
+
+If you own Matlab license, use Echo_IMPC_reporter.mlapp, however, even if Matlab is missing from your computer you can install the app as a standalone program using Echo_IMPC_reporter 1.1 installer.exe.
 
 The app requires data input in a specific format, the necessary inputs are:
  1) Template .xlsx file which defines settings, input and output parameters and metadata (for testing, use IMPC_Echo_Template.xlsx).
